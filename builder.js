@@ -1,0 +1,1 @@
+class UrlBuilder { host(h) { this.h = h; return this; } } module.exports = UrlBuilder;
